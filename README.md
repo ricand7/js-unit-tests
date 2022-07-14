@@ -13,7 +13,7 @@ Testes unitários para funções utilizando o módulo Assert do NodeJS para veri
 >  execute o comando:
 
 ```
-git clone 
+git clone git@github.com:ricand7/js-unit-tests.git
 
 ``` 
 
