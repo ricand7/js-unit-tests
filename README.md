@@ -24,7 +24,7 @@ npm install
     
 ## Executando os Testes
 
-* Para rodar a api:
+* Para rodar todos os testes:
 
   ```
   npm test 
