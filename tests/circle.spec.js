@@ -35,7 +35,7 @@ assert.strictEqual(parseFloat(circle(3)['area'].toPrecision(4)), 28.26);
 
 
 
-const circle = (radius) => {
+const Circle = (radius) => {
   const PI = 3.14;
   if (!radius) { return undefined; }
   return {
