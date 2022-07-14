@@ -24,7 +24,7 @@ git clone git@github.com:ricand7/js-unit-tests.git
 
 ```
 bash
-cd project-jest
+cd js-unit-tests
 npm install
 
 ``` 
