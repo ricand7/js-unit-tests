@@ -8,8 +8,15 @@
 Testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
 - Realizado utilizando uma abordagem de desenvolvimento orientado a testes.
 
+## Para baixar a Aplicação
 
-## Tecnologias usadas
+>  execute o comando:
+
+```
+git clone 
+
+``` 
+
 
 ## Instalando Dependências
 
